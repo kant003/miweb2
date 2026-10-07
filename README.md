@@ -1,6 +1,6 @@
 Títulos de nivel 1 y 2
 algo en negrita, cursiva y tachado
-tabla informática
+tabla informativa
 dos enlaces
 dos fotos
 una o varias líneas separatorias
