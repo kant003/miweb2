@@ -1,6 +1,3 @@
----
-angel: asdfasdf
----
 Títulos de nivel 1 y 2
 algo en negrita, cursiva y tachado
 tabla informática
