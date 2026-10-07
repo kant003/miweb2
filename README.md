@@ -1,3 +1,6 @@
+---
+angel: asdfasdf
+---
 Títulos de nivel 1 y 2
 algo en negrita, cursiva y tachado
 tabla informática
@@ -8,4 +11,3 @@ una cita (blockquote)
 una lista no numera y otra lista numerada
 una lista de tipo casilla de verificación
 un fragmento de código escrito en algún lenguaje de programación
-:rocket
